@@ -2,7 +2,7 @@
 import { motion } from "framer-motion";
 import { BookOpen, Code, Briefcase, Figma, Trophy } from "lucide-react";
 
-export default function About(): JSX.Element {
+export default function About() {
   return (
     <section id="about" className="py-24 bg-slate-950 border-t border-slate-900">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
